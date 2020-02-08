@@ -1,7 +1,7 @@
 # Hello VuePress!
 
-Hello VuePress
+Hello VuePress!
 
-Hello GitHub Actions
+Hello GitHub Actions!
 
--- From: http://www.lasy.site
+From: http://www.lasy.site
