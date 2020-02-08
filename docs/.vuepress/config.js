@@ -1,3 +1,3 @@
 module.exports = {
-  base: 'gh-pages-action-demo'
+  base: '/gh-pages-action-demo/'
 }
