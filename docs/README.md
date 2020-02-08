@@ -1,3 +1,3 @@
 # Hello VuePress!
 
-Hello
+Hello VuePress
