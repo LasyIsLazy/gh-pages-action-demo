@@ -2,6 +2,6 @@
 
 Hello VuePress!
 
-Hello GitHub Actions!
+Hello GitHub Actions!.
 
 From: http://www.lasy.site
